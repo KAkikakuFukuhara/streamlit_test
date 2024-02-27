@@ -9,3 +9,6 @@ __pycache__
 
 # poetry
 poetry.lock
+
+# file and dir
+results
